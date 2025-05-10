@@ -22,3 +22,7 @@ disqusShortname = "lighturway-astro"
 
 [pagination]
 pagerSize = 5
+
+[params]
+  adsense = true  # 控制廣告開關
+  adsenseClient = "ca-pub-7855260357994149"
