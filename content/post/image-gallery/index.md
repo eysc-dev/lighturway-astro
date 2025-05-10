@@ -1,7 +1,7 @@
 ---
 title: Image gallery
 description: Create beautiful interactive image gallery using Markdown
-date: 2023-08-26 00:00:00+0000
+date: 2000-01-21 00:00:00+0000
 image: 2.jpg
 ---
 
@@ -19,4 +19,4 @@ To use this feature, the image must be in the same directory as the Markdown fil
 
 ![Image 1](1.jpg) ![Image 2](2.jpg)
 
-> Photo by [mymind](https://unsplash.com/@mymind) and [Luke Chesser](https://unsplash.com/@lukechesser) on [Unsplash](https://unsplash.com/)
+> Photo by [命理小天地](https://www.instagram.com/lighturway_astro/)
