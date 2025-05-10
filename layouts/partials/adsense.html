@@ -1,1 +1,21 @@
 <!-- 廣告只顯示在局部頁面 -->
+
+{{ if .Site.Params.adsense }}
+<!-- AdSense 配置容器 -->
+<div class="adsense-container" data-client="ca-pub-7855260357994149"></div>
+
+<!-- 异步加载脚本 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const container = document.querySelector('.adsense-container');
+  if (container && container.dataset.client) {
+    const adsbygoogle = window.adsbygoogle || [];
+    adsbygoogle.push({
+      google_ad_client: container.dataset.client,
+      enable_page_level_ads: false  // 关闭自动广告
+    });
+  }
+});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+{{ end }}
