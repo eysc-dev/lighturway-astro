@@ -1,20 +1,20 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: 命理小天地
+description: 歡迎來到 命理小天地 官方網站
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+date: 2025-05-09 00:00:00+0000
+image: 
 categories:
-    - Example Category
+    - 命理諮詢
 tags:
-    - Example Tag
+    - 紫微
+    - 八字
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+我的第一支影片
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+{{< youtube 4qSI2N1uJ1E >}}
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+> Video by [命理小天地](https://www.instagram.com/lighturway_astro/)
